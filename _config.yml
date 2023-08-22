@@ -1,11 +1,16 @@
-title: Jeff Uyekawa # your name (or website title) here
-logo: "/images/profile_photo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  Mathematics Graduate Student 
-  <br><br>
-  Data Scientist | Data Analyst | Machine Learning 
-  <br><br>
-  <a href="https://www.linkedin.com/in/jeff-uyekawa/">View My LinkedIn Profile</a> 
+title: <p align= "center">Jeff Uyekawa </p>
+logo: "/images/profile_photo.png?raw=true"
+description: 
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/jeff-uyekawa/">LinkedIn</a> |
+  <a href="https://github.com/JeffUyekawa">GitHub</a>
+  </p>
+  
+  <p align="justify">
+  Current Mathematics M.S. student at Northern Arizona University pursuing work in Data Analytics, Data Science, and Machine Learning
+  
+  </p>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
