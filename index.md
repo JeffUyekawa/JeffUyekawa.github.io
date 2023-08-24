@@ -28,11 +28,8 @@ This is a collection of projects related to my study in my Masters program in Ma
 
 ### Upcoming Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+<img src="images/google_badge.png?raw=true"/> 
+I recently completed Google's data analytics course. I am currently working on a case study, and once finished, I will add a jupyter notebook documenting the data analysis process as well as a powerpoint presentation that I would present to stakeholders. 
 
 ---
 
