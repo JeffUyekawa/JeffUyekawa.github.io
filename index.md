@@ -18,8 +18,10 @@ In this project, I collect, clean, and analyze data relating to COVID cases in A
 This project is an extension of a homework assignment from a mathematics of deep learning class. Here, I explore the use of momentum in deep learning, practice the basics of object oriented programming, and finish by building a neural network to predict classes of wine. The wine classification occurs in number 5. Here, we use Pytorch with CrossEntropyLoss to build a model that can predict between 3 different types of wines. 
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Various Mathematics Projects](https://github.com/JeffUyekawa/JeffUyekawa)
+<img src="images/julia_set.png?raw=true"/>
+This is a collection of projects related to my study in my Masters program in Mathematics. If you're feeling particularly "Math-y" and want to explore some more rigorous, theoretical mathematics projects, have a look! 
+
 
 ---
 
