@@ -19,6 +19,7 @@ This project is an extension of a homework assignment from a mathematics of deep
 
 ---
 [Various Mathematics Projects](https://github.com/JeffUyekawa/JeffUyekawa)
+
 <img src="images/julia_set.png?raw=true"/>
 This is a collection of projects related to my study in my Masters program in Mathematics. If you're feeling particularly "Math-y" and want to explore some more rigorous, theoretical mathematics projects, have a look! 
 
