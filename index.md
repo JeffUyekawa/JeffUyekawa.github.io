@@ -18,6 +18,13 @@ In this project, I collect, clean, and analyze data relating to COVID cases in A
 This project is an extension of a homework assignment from a mathematics of deep learning class. Here, I explore the use of momentum in deep learning, practice the basics of object oriented programming, and finish by building a neural network to predict classes of wine. The wine classification occurs in number 5. Here, we use Pytorch with CrossEntropyLoss to build a model that can predict between 3 different types of wines. 
 
 ---
+[Housing Price Regression with Pytorch](/pages/Housing.html)
+
+<img src="images/housing_prices.jpeg?raw=true"/> 
+
+This project is the result of another class assignment, and represents my first time building a neural network with Pytorch. In the final problem of this assignment, I use a deep learning network to predict housing prices using the boston housing dataset. 
+
+---
 [Various Mathematics Projects](https://github.com/JeffUyekawa/JeffUyekawa)
 
 <img src="images/julia_set.png?raw=true"/>
