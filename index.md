@@ -11,7 +11,7 @@ In this project, I collect, clean, and analyze data relating to COVID cases in A
 
 ---
 [Deep Learning for Multi-Class Classification](/pages/Multiclass.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/momentum_loss.jpg?raw=true"/> <img src="images/wine_photo.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
