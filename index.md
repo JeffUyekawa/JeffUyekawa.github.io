@@ -9,7 +9,7 @@
 In this project, I collect, clean, and analyze data relating to COVID cases in Arizona. Next, I look into using scipy packages to model the first spike in hospitalizations using the SIHR system of differential equations. Further research can be done here by implementing machine learning techniques to learn this model's parameters. 
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Deep Learning for Multi-Class Classification](/pages/Multiclass.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
