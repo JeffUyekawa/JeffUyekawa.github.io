@@ -20,7 +20,7 @@ This project is an extension of a homework assignment from a mathematics of deep
 ---
 [Housing Price Regression with Pytorch](/pages/Housing.html)
 
-<img src="images/housing_image.jpeg?raw=true"/> 
+<img src="images/housing_image.png?raw=true"/> 
 
 This project is the result of another class assignment, and represents my first time building a neural network with Pytorch. In the final problem of this assignment, I use a deep learning network to predict housing prices using the boston housing dataset. 
 
