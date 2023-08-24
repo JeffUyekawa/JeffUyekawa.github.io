@@ -26,7 +26,7 @@ This is a collection of projects related to my study in my Masters program in Ma
 
 ---
 
-### Category Name 2
+### Upcoming Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
