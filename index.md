@@ -4,7 +4,7 @@
 
 ### Recent Projects
 
-[Mathematical Modeling Covid Hospitalizations](/pages/index.html)
+[Mathematical Modeling Covid Hospitalizations](/pages/Covid_Modeling.html)
 <img src="images/AZ_covid_predictions.png?raw=true"/>
 In this project, I collect, clean, and analyze data relating to COVID cases in Arizona. Next, I look into using scipy packages to model the first spike in hospitalizations using the SIHR system of differential equations. Further research can be done here by implementing machine learning techniques to learn this model's parameters. 
 
