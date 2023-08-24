@@ -13,7 +13,9 @@ In this project, I collect, clean, and analyze data relating to COVID cases in A
 ---
 [Deep Learning for Multi-Class Classification](/pages/Multiclass.html)
 
-<img src="images/momentum_loss.png?raw=true"/> <img src="images/wine_photo.jpg?raw=true"/>
+<img src="images/momentum_loss.png?raw=true"/> 
+
+This project is an extension of a homework assignment from a mathematics of deep learning class. Here, I explore the use of momentum in deep learning, practice the basics of object oriented programming, and finish by building a neural network to predict classes of wine. The wine classification occurs in number 5. Here, we use Pytorch with CrossEntropyLoss to build a model that can predict between 3 different types of wines. 
 
 ---
 [Project 3 Title](http://example.com/)
