@@ -3,7 +3,11 @@
 ---
 
 ### Recent Projects
+[Google Data Analytics Capstone Project](/pages/Bella Beat Casestudy.html)
+<img src="images/google_badge.png?raw=true"/> 
+I recently completed Google's data analytics course. In this case study, I imagine that I am a junior data analyst working for Bellabeat, a high-tech manufacturer of health focused products for women. In this scenario, Bellabeat is interested in analyzing and supplementing non-customer user data from other fitness wearables in order to inform decisions in marketing its products more effectively. To accomplish this task, I utilize Python in Jupyter notebooks to clean data, perform exploratory data analysis, and create basic predictive models with machine learning techniques. 
 
+---
 [Mathematical Modeling Covid Hospitalizations](/pages/Covid_Modeling.html)
 
 <img src="images/AZ_covid_predictions.png?raw=true"/>
