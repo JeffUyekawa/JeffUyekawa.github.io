@@ -37,16 +37,6 @@ This project is the result of another class assignment, and represents my first 
 This is a collection of projects related to my study in my Masters program in Mathematics. If you're feeling particularly "Math-y" and want to explore some more rigorous, theoretical mathematics projects, have a look! 
 
 
----
-
-### Upcoming Projects
-
-<img src="images/google_badge.png?raw=true"/> 
-I recently completed Google's data analytics course. I am currently working on a case study, and once finished, I will add a jupyter notebook documenting the data analysis process as well as a powerpoint presentation that I would present to stakeholders. 
-
----
-
-
 
 
 ---
