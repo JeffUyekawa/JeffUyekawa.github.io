@@ -6,7 +6,7 @@
 [Topological Data Analysis](https://github.com/JeffUyekawa/TDA_Final_Project/tree/main)
 
 <img src="images/Sublevel_map.png?raw=true"/>
-In recent years, there have been major strides in the field of Topological Data Analysis. This field utilizes the mathematical concept of topology, namely persistent homology as a tool to explore extremely complex datasets to find potentially useful and novel patterns. This project represents my contribution to a final group project in a course entitled "Topological Data Analysis". Our group explored global polio vaccination data and designed multiple filtrations upon which to calculate persistent homology in an attempt to identify patterns of vaccination iequity. The github page is linked with our code, research paper, and final presentation. 
+In recent years, there have been major strides in the field of Topological Data Analysis. This field utilizes the mathematical concept of topology, namely persistent homology as a tool to explore extremely complex datasets to find potentially useful and novel patterns. This project represents my contribution to a final group project in a course entitled "Topological Data Analysis". Our group explored global polio vaccination data and designed multiple filtrations upon which to calculate persistent homology in an attempt to identify patterns of vaccination inequity. The github page is linked with our code, research paper, and final presentation. 
 
 ---
 [Google Data Analytics Capstone Project](/pages/Bellabeat_Case_Study.html)
