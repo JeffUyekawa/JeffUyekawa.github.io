@@ -3,8 +3,10 @@
 ---
 
 ### Recent Projects
-[Predicting Carbon Flux with Deep Learning]
+[Predicting Carbon Flux with Deep Learning](/pages/Deep10CV.py)
+
 Over the summer, I was able to work full time in a research capacity. Our team was working to build various machine learning models to accurately predict carbon and latent heat flux values across 44 different sites in the NEON network. I've linked a code sample of the deep learning model that I built to predict carbon flux values. This model was run on a SLURM cluster computer with GPU accelration using a 10-fold cross validation technique to optimize model performance while decreasing model bias. The deep learning model was built using Pytorch, and I implemented an early stopping class to prevent model over-fitting.
+
 [Topological Data Analysis](https://github.com/JeffUyekawa/TDA_Final_Project/tree/main)
 
 <img src="images/Sublevel_map.png?raw=true"/>
