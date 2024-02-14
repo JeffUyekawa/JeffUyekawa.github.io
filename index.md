@@ -41,6 +41,9 @@ This project is an extension of a homework assignment from a mathematics of deep
 This project is the result of another class assignment, and represents my first time building a neural network with Pytorch. In the final problem of this assignment, I use a deep learning network to predict housing prices using the boston housing dataset. 
 
 ---
+[Text to CSV]
+
+---
 [Various Mathematics Projects](https://github.com/JeffUyekawa/JeffUyekawa)
 
 <img src="images/julia_set.png?raw=true"/>
