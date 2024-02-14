@@ -41,7 +41,8 @@ This project is an extension of a homework assignment from a mathematics of deep
 This project is the result of another class assignment, and represents my first time building a neural network with Pytorch. In the final problem of this assignment, I use a deep learning network to predict housing prices using the boston housing dataset. 
 
 ---
-[Text to CSV]
+[Text to CSV](/pages/text_to_csv.html)
+This is a small win, but I was proud of it. I was given a long text list that needed to be turned into a table. Since I'm not wildly experienced in coding, I decided to use ChatGPT as a jumping off point. A few minutes, some reading, understanding, and editing later. I was able to solve the problem and get the necessary csv file. That has to be one of my favorite applications of ChatGPT as a problem solver who isn't quite as experienced with coding. Large language models levels the playing field for people who can think logically even if they haven't spent years programming. 
 
 ---
 [Various Mathematics Projects](https://github.com/JeffUyekawa/JeffUyekawa)
