@@ -3,7 +3,7 @@
 ---
 
 ### Recent Projects
-[Predicting Carbon Flux with Deep Learning](/pages/dashboar.html)
+[Data Visualization Dashboard in Tableau](/pages/dashboar.html)
 
 Recently, I have been working on my skills in Tableau for data visualization. Here is an example of a recent dashboard I made using Kaggle's London Bike Share dataset and this [follow along tutorial](https://www.youtube.com/watch?v=nl9eZl1IOKI). In making this dashboard, I was able to practice creating calculated fields and dynamic parameters as well as creating a function to update the visualizations based on a selected set of data. I'm still a beginner in Tableau, but I look forward to learning more and increasing my skills!
 
