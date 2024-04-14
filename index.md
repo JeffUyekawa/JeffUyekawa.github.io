@@ -5,13 +5,13 @@
 ### Recent Projects
 [Predicting Carbon Flux with Deep Learning](/pages/dashboar.html)
 
-Recently, I have been working on my skills in Tableau for data visualization. Here is an example of a recent dashboard I made using Kaggle's London Bike Share dataset.  
+Recently, I have been working on my skills in Tableau for data visualization. Here is an example of a recent dashboard I made using Kaggle's London Bike Share dataset and this [follow along tutorial](https://www.youtube.com/watch?v=nl9eZl1IOKI). In making this dashboard, I was able to practice creating calculated fields and dynamic parameters as well as creating a function to update the visualizations based on a selected set of data. I'm still a beginner in Tableau, but I look forward to learning more and increasing my skills!
 
 ---
 
-[Predicting Carbon Flux with Deep Learning](/pages/Deep10CV.py)
+[Predicting Carbon Flux with Deep Learning](/pages/Predicting_Carbon_Flux_with_Machine_Learning.pdf)
 
-Over the summer, I was able to work full time in a research capacity. Our team was working to build various machine learning models to accurately predict carbon and latent heat flux values across 44 different sites in the NEON network. I've linked a code sample of the deep learning model that I built to predict carbon flux values. This model was run on a SLURM cluster computer with GPU accelration using a 10-fold cross validation technique to optimize model performance while decreasing model bias. The deep learning model was built using Pytorch, and I implemented an early stopping class to prevent model over-fitting. I am currently working on writing two academic papers with a hope that both will be published by the end of the year. 
+Over the summer, I was able to work full time in a research capacity. Our team was working to build various machine learning models to accurately predict carbon and latent heat flux values across 44 different sites in the NEON network. Above, I've included a link to the preprint of our article which is awaiting publication. In addition, here is a [code sample](/pages/Deep10CV.py) of the deep learning model that I constructed during this research. This model was run on a SLURM cluster computer with GPU accelration using a 10-fold cross validation technique to optimize model performance while decreasing model bias. The deep learning model was built using Pytorch, and I implemented an early stopping class to prevent model over-fitting. I am currently working on writing two academic papers with a hope that both will be published by the end of the year. 
 
 
 ---
